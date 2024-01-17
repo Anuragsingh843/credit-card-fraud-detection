@@ -57,8 +57,6 @@ Testing data for a Valid transaction can be found in the ***"valid_values.csv"**
 The notebook used to train the model for this web app can be found [here](https://www.kaggle.com/hungrywolf/different-methods).
 
 To Contact Us:
-- Sourav Sahu
-    - [Kaggle](https://www.kaggle.com/sarques)    
-    - [LinkedIn](https://www.linkedin.com/in/sourav-sahu-2s/)
-    
-
+- Anurag Kumar
+    - [Kaggle](https://www.kaggle.com/sarques)
+      
