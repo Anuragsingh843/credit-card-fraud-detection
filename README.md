@@ -1,7 +1,6 @@
 # Credit Card Fraud Detection Web App
 ![My level of Imagery, lol](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fai-journey.com%2Fwp-content%2Fuploads%2F2019%2F06%2Ffraud-EMV-chip-credit-card.jpg&f=1&nofb=1)
 
-
 Since the data for credit card fraud is not available in real form(due to confidentiality), and is availbale only in dimensionality reduced form, we will be sharing some of the test cases here.
 
 ## Specification about what we used and achieved.
