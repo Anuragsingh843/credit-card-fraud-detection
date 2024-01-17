@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection Web App
-![New Image](https://example.com/path/to/your/image.jpg)
+![New Image](https://via.placeholder.com/800x400)
 
 Since the data for credit card fraud is not available in real form(due to confidentiality), and is availbale only in dimensionality reduced form, we will be sharing some of the test cases here.
 
